@@ -8,8 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 # Divya Menon's First CS 193 Homework
-- Bulleted
-- List
+
 - Helps me understand things for the CS 180 Lab
 - Very useful for asking questions
 - Useful and engaging lectures
@@ -23,7 +22,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+- Bulleted
+- List
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
