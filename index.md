@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-# Divya Menon's First CS 193 Homework
+# Divya Menon's First CS193 Homework
 
 - Helps me understand things for the CS 180 Lab
 - Very useful for asking questions
