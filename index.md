@@ -10,9 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 # Divya Menon's First CS 193 Homework
 - Bulleted
 - List
--Helps me understand things for the CS 180 Lab
--Very useful for asking questions
--Useful and engaging lectures
+- Helps me understand things for the CS 180 Lab
+- Very useful for asking questions
+- Useful and engaging lectures
 
 ```markdown
 Syntax highlighted code block
