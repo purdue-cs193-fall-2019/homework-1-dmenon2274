@@ -7,6 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Divya Menon's First CS 193 Homework
+- Bulleted
+- List
+-Helps me understand things for the CS 180 Lab
+-Very useful for asking questions
+-Useful and engaging lectures
 
 ```markdown
 Syntax highlighted code block
@@ -14,12 +20,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-#Divya Menon's First CS 193 Homework
-- Bulleted
-- List
--Helps me understand things for the CS 180 Lab
--Very useful for asking questions
--Useful and engaging lectures
 
 1. Numbered
 2. List
